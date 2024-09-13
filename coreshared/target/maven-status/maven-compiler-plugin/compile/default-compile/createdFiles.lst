@@ -1,0 +1,4 @@
+org\juliomesquita\rabbitMq_constants\RabbitMqConstants.class
+org\juliomesquita\requests\PriceRequest.class
+org\juliomesquita\interfaces\RabbitMqConsumer.class
+org\juliomesquita\requests\StockRequest.class
